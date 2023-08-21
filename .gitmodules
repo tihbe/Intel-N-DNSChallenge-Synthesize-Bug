@@ -1,0 +1,3 @@
+[submodule "IntelNeuromorphicDNSChallenge"]
+	path = IntelNeuromorphicDNSChallenge
+	url = https://github.com/IntelLabs/IntelNeuromorphicDNSChallenge.git
